@@ -29,10 +29,6 @@
       "finance-news": {
         "threshold": 7.0,
         "topic_dedup": true
-      },
-      "insurance": {
-        "threshold": 6.0,
-        "topic_dedup": true
       }
     }
   },

@@ -120,6 +120,20 @@
         "enabled": true,
         "category": "linux-kernel",
         "profile": "tech-news"
+      },
+      {
+        "name": "财联社电报（ktachibana镜像）",
+        "url": "https://rsshub.ktachibana.party/cls/telegraph",
+        "enabled": true,
+        "category": "insurance-finance",
+        "profile": "insurance"
+      },
+      {
+        "name": "财联社电报（woodland镜像）",
+        "url": "https://rsshub.woodland.cafe/cls/telegraph",
+        "enabled": true,
+        "category": "insurance-finance",
+        "profile": "insurance"
       }
     ],
     "reddit": {
